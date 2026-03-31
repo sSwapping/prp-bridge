@@ -54,7 +54,7 @@ BridgeConfig.Target = "ox_target"
     Available Medical systems:
         - qbx_medical
         - esx_ambulancejob
-        - wasabi_ambulance
+        - wasabi_ambulance (supports v1 and v2)
         - ars_ambulancejob
         - osp_ambulance
         - p-ambulancejob
