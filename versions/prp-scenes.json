@@ -1,20 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changes": [
-    "Fixed missing locales in scenes UI.",
-    "Fixed graffiti showing up in scene history."
+    "Fixed a bug where scenes went out of focus during graffiti painting."
   ],
   "filesAffected": [
+    "fxmanifest.lua",
     "client/creator.lua",
-    "client/nui.lua",
-    "locales/en.json",
-    "locales/es.json",
-    "locales/br.json",
-    "locales/sv.json",
-    "server/main.lua",
-    "ui/assets/index.css",
-    "ui/assets/index.js",
-    "ui/index.html",
-    "fxmanifest.lua"
+    "editable/cl_nui.lua"
   ]
 }
