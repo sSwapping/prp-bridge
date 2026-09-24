@@ -30,7 +30,7 @@ BridgeConfig = {
     Inventory   = "ox_inventory",    -- ox_inventory | origen_inventory | tgiann-inventory | false
     Phone       = "lb-phone",        -- lb-phone | yseries | yphone | yflip | npwd | roadphone | 17mov_phone | gksphone | meteo-phone | qs-smartphone-pro | false
     Target      = "ox_target",       -- ox_target | qb-target | sleepless_interact | false
-    Medical     = "qbx_medical",     -- qbx_medical | esx_ambulancejob | wasabi_ambulance | ars_ambulancejob | osp_ambulance | p-ambulancejob | nd_ambulance | qb-ambulancejob | randol_medical | tk_ambulancejob | false
+    Medical     = "qbx_medical",     -- qbx_medical | esx_ambulancejob | wasabi_ambulance | ars_ambulancejob | osp_ambulance | p-ambulancejob | nd_ambulance | qb-ambulancejob | randol_medical | tk_ambulancejob | plt_ambulance_job | false
     Dispatch    = "ps-dispatch",     -- ps-dispatch | origen_police | cd_dispatch | rcore_dispatch | tk_dispatch | lb-tablet | aty_dispatch | codem-dispatch | core_dispatch | qs-dispatch | false
     VehicleKeys = "qbx_vehiclekeys", -- qbx_vehiclekeys | cd_garage | mVehicle | okokGarage | vehicles_keys | wasabi_carlock | nd_core | mrnewbvehiclekeys | Renewed-Vehiclekeys | qb-vehiclekeys | false
     VehicleFuel = "ox_fuel",         -- ox_fuel | LegacyFuel | cdn-fuel | lc_fuel | qb-fuel | Renewed-Fuel | rcore_fuel | false
@@ -81,7 +81,7 @@ modules/
 ├── inv/         # inventories (ox_inventory, origen_inventory, tgiann-inventory)
 ├── target/      # targeting   (ox_target, qb-target, sleepless_interact)
 ├── dispatch/    # dispatch    (ps-dispatch, origen_police, cd_dispatch, rcore_dispatch, tk_dispatch, lb-tablet, aty_dispatch, codem-dispatch, core_dispatch, qs-dispatch)
-├── medical/     # medical     (qbx_medical, esx_ambulancejob, wasabi_ambulance, tk_ambulancejob, nd_ambulance, osp_ambulance, p-ambulancejob, randol_medical, qb-ambulancejob)
+├── medical/     # medical     (qbx_medical, esx_ambulancejob, wasabi_ambulance, tk_ambulancejob, nd_ambulance, osp_ambulance, p-ambulancejob, randol_medical, qb-ambulancejob, plt_ambulance_job)
 ├── appearance/  # appearance  (illenium-appearance, fivem-appearance, qb-clothing, esx_skin)
 ├── phone/       # phones      (lb-phone, yseries, yphone, yflip, npwd, roadphone, 17mov_phone, gksphone, meteo-phone, qs-smartphone-pro)
 ├── vkeys/       # vehicle keys (qbx_vehiclekeys, qb-vehiclekeys, cd_garage, mVehicle, okokGarage, vehicles_keys, wasabi_carlock, nd_core, mrnewbvehiclekeys, Renewed-Vehiclekeys)
