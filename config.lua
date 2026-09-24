@@ -67,6 +67,7 @@ BridgeConfig.Target = "ox_target"
         - nd_ambulance
         - qb-ambulancejob
         - randol_medical
+        - tk_ambulancejob
 ]]
 ---@type AvailableMedicals
 BridgeConfig.Medical = 'qbx_medical'
